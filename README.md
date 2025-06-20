@@ -1,6 +1,6 @@
 <!-- Girl Coder Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="600" height="250" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" height="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kinjal Dabhi</h1>
