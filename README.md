@@ -1,30 +1,58 @@
-# 👋 Hi there, I'm Kinjal Dabhi
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="250" />
+</p>
 
-### 💻 Passionate Learner | 🧠 Tech Enthusiast | 🌐 Web Developer
+<h1 align="center">Hi 👋, I'm Kinjal Dabhi</h1>
+<h3 align="center">A Passionate Learner, Tech Explorer, and Future Cyber Warrior 🧠💻</h3>
 
 ---
+
+## 🧠 About Me
 
 - 🔭 I’m currently working on **C++, Python, and Web Development**
-- 🌱 I’m currently learning **Ethical Hacking & Cybersecurity**
-- 🤝 I’m looking to collaborate on exciting projects
-- ⚡ Fun fact: I love coding and exploring new tech daily!
+- 🌱 I’m learning **Ethical Hacking & Cybersecurity**
+- 🤝 I’m looking to collaborate on exciting open-source projects
+- 💬 Ask me about: `C`, `C++`, `HTML`, `CSS`, `JavaScript`, `Python`
+- 🧳 Fun fact: I love to solve real-life problems with code 💡
 
 ---
 
-### 🛠️ Technologies I Use
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+## 🚀 Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![Kinjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinjaldabhi&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjaldabhi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kinjaldabhi&show_icons=true&theme=github_dark" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjaldabhi&layout=compact&theme=github_dark" width="47%"/>
+</p>
 
 ---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR-ID" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by <b>Kinjal Dabhi</b>
+</p>
