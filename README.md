@@ -39,6 +39,35 @@
 </p>
 
 ---
+## 🚀 My Projects
+
+---
+
+### 🐍 Python Projects
+- 🔐 [Password Manager](https://github.com/kinjaldabhi/password-manager) – A simple password manager using Tkinter.
+- 📊 [Data Visualizer](https://github.com/kinjaldabhi/data-visualizer) – Plot graphs with matplotlib.
+- 🌦️ [Weather App](https://github.com/kinjaldabhi/weather-app) – Real-time weather using OpenWeatherMap API.
+
+---
+
+### 💻 C Projects
+- 🧮 [Calculator](https://github.com/kinjaldabhi/c-calculator) – A simple C calculator using switch-case.
+- 🎯 [Number Guessing Game](https://github.com/kinjaldabhi/c-number-game) – CLI based guessing game.
+
+---
+
+### ➕➕ C++ Projects
+- 🐍 [Snake Game](https://github.com/kinjaldabhi/snake-game) – Classic snake game in console using C++.
+- 🏦 [Bank Management System](https://github.com/kinjaldabhi/cpp-bank-app) – Mini banking system using file handling.
+
+---
+
+### 🌐 Web Development Projects
+- 💼 [Portfolio Website](https://github.com/kinjaldabhi/portfolio-website) – Personal responsive portfolio.
+- 📋 [To-Do List App](https://github.com/kinjaldabhi/todo-app) – HTML, CSS, JavaScript based task manager.
+- 🔍 [Search Engine Clone](https://github.com/kinjaldabhi/search-clone) – Google-like frontend UI using HTML/CSS.
+
+---
 
 
 <p align="center">
