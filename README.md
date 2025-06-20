@@ -1,6 +1,6 @@
-<!-- Banner GIF -->
+<!-- Girl Coder Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="250" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="600" height="250" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kinjal Dabhi</h1>
@@ -40,18 +40,6 @@
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   Made with ❤️ by <b>Kinjal Dabhi</b>
